@@ -1,4 +1,4 @@
-export default function MealsDetail() {
+export default function MealsDetailPage() {
   return (
     <main>
       <h1>MealsDetail</h1>
